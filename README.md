@@ -9,4 +9,4 @@ IPFS Link
 
 https://ipfs.io/ipfs/QmRHZdqF6rRyEtvt3pDHjY4jJ9Zd1kHFtESgUuHBtWwan3
 
-opensea link to NFT: https://testnets.opensea.io/collection/koko-2d3tnlrzxa
+opensea link to NFT: https://testnets.opensea.io/assets/rinkeby/0x88b0f5078e0dfe04f6cf4e76a794994ea88198ff/1

@@ -1,0 +1,23 @@
+{
+    "name":"WTF",
+     "description": "Mjölnir, I give no fuck.",
+     "image_data": "https://ipfs.io/ipfs/QmRHZdqF6rRyEtvt3pDHjY4jJ9Zd1kHFtESgUuHBtWwan3",
+    "attributes":[
+       {
+          "trait_type":"Speed",
+          "value":45
+       },
+       {
+          "trait_type":"Attack",
+          "value":46
+       },
+       {
+          "trait_type":"Defence",
+          "value":45
+       },
+       {
+          "trait_type":"Material",
+          "value":"steel"
+       }
+    ]
+ }
