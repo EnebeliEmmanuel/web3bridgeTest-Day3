@@ -1,23 +1,26 @@
 {
-    "name":"WTF",
-     "description": "Mjölnir, I give no fuck.",
-     "image_data": "https://ipfs.io/ipfs/QmRHZdqF6rRyEtvt3pDHjY4jJ9Zd1kHFtESgUuHBtWwan3",
-    "attributes":[
-       {
-          "trait_type":"Speed",
-          "value":45
-       },
-       {
-          "trait_type":"Attack",
-          "value":46
-       },
-       {
-          "trait_type":"Defence",
-          "value":45
-       },
-       {
-          "trait_type":"Material",
-          "value":"steel"
-       }
+    "description": "This NFT is proof that I completed my Web3Bridge NFT test",
+    "external_url": "https://twitter.com/Kokocodes",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRHZdqF6rRyEtvt3pDHjY4jJ9Zd1kHFtESgUuHBtWwan3",
+    "name": "Kokocodes",
+    "attributes": [
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Course",
+        "value": "Web3Bridge Cohort VII"
+      },
+      {
+        "trait_type": "Token Standard",
+        "value": "ERC721"
+      },
+      {
+        "trait_type": "Date",
+        "value": "19th August, 2022"
+      }
     ]
- }
+  }
+
+//   QmRd3619b1Qvoknyf69fYD7d33XZZVSAu9XKpTKtCZrFgk

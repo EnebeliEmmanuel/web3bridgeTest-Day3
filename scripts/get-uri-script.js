@@ -2,7 +2,7 @@ const hre = require("hardhat");
 
 async function main() {
     const NFT = await hre.ethers.getContractFactory("kokoNFT");
-    const CONTRACT_ADDRESS = "0x34631d0dBbe34E1952E0A63f343Cc5Cd7573F278"
+    const CONTRACT_ADDRESS = "0xE38D1241488c29eB35262aaa87F5f8E4205d6E2C"
     const contract = NFT.attach(CONTRACT_ADDRESS);
 
     const owner = await contract.ownerOf(1);

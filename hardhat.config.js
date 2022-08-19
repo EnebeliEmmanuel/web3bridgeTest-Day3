@@ -17,9 +17,9 @@ const RINKEBY_PRIVATE_KEY = process.env.RINKEBY_PRIVATE_KEY;
  */
 module.exports = {
   solidity: "0.8.4",
-  defaultNetwork: "georli",
+  defaultNetwork: "rinkeby",
   networks: {
-    georli: {
+    rinkeby: {
       url: ALCHEMY_API_KEY_URL,
       accounts: [RINKEBY_PRIVATE_KEY],
     }

@@ -3,10 +3,11 @@
 
 ERC721 Token
 
-https://goerli.etherscan.io/address/0x34631d0dBbe34E1952E0A63f343Cc5Cd7573F278#code
+https://rinkeby.etherscan.io/address/0xE38D1241488c29eB35262aaa87F5f8E4205d6E2C#code
+
 
 IPFS Link
 
-https://ipfs.io/ipfs/QmRHZdqF6rRyEtvt3pDHjY4jJ9Zd1kHFtESgUuHBtWwan3
+https://ipfs.io/ipfs/QmRd3619b1Qvoknyf69fYD7d33XZZVSAu9XKpTKtCZrFgk
 
-opensea link to NFT: https://testnets.opensea.io/assets/rinkeby/0x88b0f5078e0dfe04f6cf4e76a794994ea88198ff/1
+opensea link to NFT: https://testnets.opensea.io/assets/rinkeby/0xe38d1241488c29eb35262aaa87f5f8e4205d6e2c/1

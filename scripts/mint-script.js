@@ -5,13 +5,13 @@ async function main() {
 
     // The IPFS Address of image uploaded to Pinata
    
-    const URI = "https://ipfs.io/ipfs/QmUZVHapkM7VRMrxmMXJz6mW38tnePoqQuvgpJ8CV67n7C"
+    const URI = "https://ipfs.io/ipfs/QmRd3619b1Qvoknyf69fYD7d33XZZVSAu9XKpTKtCZrFgk"
 
     // Wallet Address
     const WALLET_ADDRESS = "0x20497F37a8169c8C9fA09411F8c2CFB7c90dE5d1"
 
     // Contract address deployed
-    const CONTRACT_ADDRESS = "0x34631d0dBbe34E1952E0A63f343Cc5Cd7573F278"
+    const CONTRACT_ADDRESS = "0xE38D1241488c29eB35262aaa87F5f8E4205d6E2C"
 
     const contract = NFT.attach(CONTRACT_ADDRESS);
     await contract.mint(WALLET_ADDRESS, URI);
